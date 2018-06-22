@@ -15,6 +15,7 @@
 		0406D361207B1080002B0468 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0406D360207B1080002B0468 /* main.m */; };
 		0406D36B207B1080002B0468 /* ___testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0406D36A207B1080002B0468 /* ___testTests.m */; };
 		0406D376207B1080002B0468 /* ___testUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0406D375207B1080002B0468 /* ___testUITests.m */; };
+		045251ED2085EB8F0088AA40 /* data.txt in Resources */ = {isa = PBXBuildFile; fileRef = 045251EC2085EB8F0088AA40 /* data.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0406D371207B1080002B0468 /* 时时彩testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "时时彩testUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0406D375207B1080002B0468 /* ___testUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "___testUITests.m"; sourceTree = "<group>"; };
 		0406D377207B1080002B0468 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		045251EC2085EB8F0088AA40 /* data.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = data.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		0406D350207B1080002B0468 /* 时时彩test */ = {
 			isa = PBXGroup;
 			children = (
+				045251EC2085EB8F0088AA40 /* data.txt */,
 				0406D351207B1080002B0468 /* AppDelegate.h */,
 				0406D352207B1080002B0468 /* AppDelegate.m */,
 				0406D354207B1080002B0468 /* ViewController.h */,
@@ -238,6 +241,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				045251ED2085EB8F0088AA40 /* data.txt in Resources */,
 				0406D35E207B1080002B0468 /* LaunchScreen.storyboard in Resources */,
 				0406D35B207B1080002B0468 /* Assets.xcassets in Resources */,
 				0406D359207B1080002B0468 /* Main.storyboard in Resources */,
